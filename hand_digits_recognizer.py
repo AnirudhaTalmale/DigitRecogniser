@@ -22,7 +22,7 @@ X_test = np.array(X_test/256)
 
 # print(clf.predict(five))
 
-clf = MLPClassifier(solver='sgd', activation='logistic', hidden_layer_sizes=(64, 64))
+clf = MLPClassifier()
 
 clf.fit(X_train, y_train)
 
