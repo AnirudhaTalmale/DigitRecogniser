@@ -1,6 +1,6 @@
 Steps - 
 
-1. Get a gray scale image as mnist dataset trains the neural network only on grayscale images (Note- It has 60,000+ images, all are grayscale).
+1. Get a gray scale image as mnist dataset trains the neural network only on grayscale images (Note- It has 60,000 training and 10,000 testing images, all are grayscale).
 
 2. Get the pixel values of the image.
 
